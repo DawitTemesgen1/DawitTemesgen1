@@ -66,8 +66,8 @@
 
 ### ⭐ Featured Projects
 
-- 📱 **[Yesra-Sew](https://github.com/DawitTemesgen1/yesra-sew)**: A comprehensive Flutter application for task tracking.
-- 🏢 **[Abyssinia-Host](https://github.com/DawitTemesgen1/abyssinia-host)**: Premium web hosting platform landing page built with modern web tech.
+- 📱 **[Akilesiya](https://github.com/DawitTemesgen1/akilesiya-)**: A professional Flutter application showcasing community and event management.
+- ⚙️ **[Akilesiya-Backend](https://github.com/DawitTemesgen1/akilesiya-backend-)**: Robust Node.js backend for the Akilesiya ecosystem.
 - 🛠️ **[Philopater-Tech](https://github.com/DawitTemesgen1/Philopater-Tech-)**: Official company website showcasing innovative tech solutions.
 
 ---
@@ -77,10 +77,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/dawit-t"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dawityelidetaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dawit"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
 
 <p align="center">
