@@ -66,6 +66,7 @@
 
 ### ⭐ Featured Projects
 
+- 📱🖥️ **[Yesra-Sew](https://github.com/DawitTemesgen1/yesra-sew)**: A multi-platform solution featuring a high-performance **Flutter mobile app** and a modern **React web application**.
 - 📱 **[Akilesiya](https://github.com/DawitTemesgen1/akilesiya-)**: A professional Flutter application showcasing community and event management.
 - ⚙️ **[Akilesiya-Backend](https://github.com/DawitTemesgen1/akilesiya-backend-)**: Robust Node.js backend for the Akilesiya ecosystem.
 - 🛠️ **[Philopater-Tech](https://github.com/DawitTemesgen1/Philopater-Tech-)**: Official company website showcasing innovative tech solutions.
