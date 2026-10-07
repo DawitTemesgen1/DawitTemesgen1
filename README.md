@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DawitTemesgen1/DawitTemesgen1/main/profile-banner.png" alt="Dawit Temesgen" width="100%" />
+<img src="./profile-banner.png" alt="Dawit Temesgen" width="100%" />
 
 <br/>
 
