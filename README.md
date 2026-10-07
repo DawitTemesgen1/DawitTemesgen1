@@ -178,17 +178,6 @@ Flutter development and direct TDLib integration, including authentication, mess
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DawitTemesgen1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Dawit Temesgen GitHub statistics" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitTemesgen1&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Dawit Temesgen top languages" height="155" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's build something useful.
