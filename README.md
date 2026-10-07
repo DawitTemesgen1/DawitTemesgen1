@@ -20,7 +20,6 @@ I build production web and mobile products that solve real operational problems 
 
 I work across the full product lifecycle: **frontend, backend, mobile, databases, APIs, deployment, production releases, and ongoing maintenance**.
 
-A large part of my work focuses on building software around real organizations and local needs — including Ethiopian calendar workflows, Bahre Hasab, multilingual content, offline access, role-based administration, media processing, and AI-powered automation.
 
 ---
 
