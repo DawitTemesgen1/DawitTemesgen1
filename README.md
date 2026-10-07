@@ -229,6 +229,10 @@ I developed the app in Flutter and integrated it directly with **TDLib**, includ
 <td>Git · GitHub Actions · CI/CD · Testing · Production deployment · Google Play releases</td>
 </tr>
 <tr>
+<td><strong>Hosting & Infrastructure</strong></td>
+<td>Managed hosting · VPS servers · Hostinger · cPanel · SSH deployment · Server management</td>
+</tr>
+<tr>
 <td><strong>Integrations</strong></td>
 <td>AI APIs · Telegram Bots · TDLib · FFmpeg · Media processing · Notifications</td>
 </tr>
