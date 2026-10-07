@@ -49,7 +49,10 @@ Full-stack web development, Flutter mobile development, frontend/backend deploym
 
 <code>React</code> <code>TypeScript</code> <code>Flutter</code> <code>Fastify</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>REST APIs</code> <code>AI Integrations</code> <code>CI/CD</code>
 
-**[Live Website](https://www.yesrasewsolution.com/)** · **[Google Play · 1K+ downloads](https://play.google.com/store/apps/details?id=com.yesrasewsolution.app&pcampaignid=web_share)**
+<p>
+  <a href="https://www.yesrasewsolution.com/"><img src="https://img.shields.io/badge/LIVE_WEBSITE-OPEN-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Yesra Sew website" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.yesrasewsolution.app&pcampaignid=web_share"><img src="https://img.shields.io/badge/GOOGLE_PLAY-1K%2B_DOWNLOADS-2EA043?style=for-the-badge&logo=googleplay&logoColor=white" alt="Yesra Sew on Google Play" /></a>
+</p>
 
 ---
 
@@ -65,7 +68,10 @@ Full-stack and mobile development, backend and database implementation, role and
 
 <code>Flutter</code> <code>Dart</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>JWT</code> <code>Riverpod</code> <code>Offline Sync</code> <code>Cloudinary</code>
 
-**[Google Play](https://play.google.com/store/apps/details?id=com.akilesiya.app)** · **[Source Code](https://github.com/DawitTemesgen1/akilesiya-)**
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.akilesiya.app"><img src="https://img.shields.io/badge/GOOGLE_PLAY-VIEW_APP-2EA043?style=for-the-badge&logo=googleplay&logoColor=white" alt="Akilesiya on Google Play" /></a>
+  <a href="https://github.com/DawitTemesgen1/akilesiya-"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_REPO-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View Akilesiya source code" /></a>
+</p>
 
 ---
 
@@ -81,7 +87,9 @@ Flutter development, Bahre Hasab calculations, liturgical rule implementation, o
 
 <code>Flutter</code> <code>Dart</code> <code>Bahre Hasab</code> <code>Rule-based Logic</code> <code>Offline Data</code> <code>GitHub Actions</code>
 
-**[Google Play Developer Page · Coming Soon](https://play.google.com/store/apps/developer?id=Philopater+Tech)**
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=Philopater+Tech"><img src="https://img.shields.io/badge/GOOGLE_PLAY-COMING_SOON-6E7681?style=for-the-badge&logo=googleplay&logoColor=white" alt="Aryam coming soon on Google Play" /></a>
+</p>
 
 ---
 
@@ -97,7 +105,11 @@ Full-stack development across the frontend, backend, database, administration sy
 
 <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Gemini AI</code> <code>Telegram</code> <code>FFmpeg</code> <code>Sharp</code> <code>Remotion</code> <code>GitHub Actions</code>
 
-**[Live Website](https://amdehaymanot.com/)** · **[Updated Version · Preview](https://overview.amdehaymanot.com/)** · **[Source Code](https://github.com/DawitTemesgen1/Amdehaymanot-official-website)**
+<p>
+  <a href="https://amdehaymanot.com/"><img src="https://img.shields.io/badge/LIVE_WEBSITE-OPEN-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Amde Haymanot website" /></a>
+  <a href="https://overview.amdehaymanot.com/"><img src="https://img.shields.io/badge/UPDATED_VERSION-PREVIEW-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Preview updated Amde Haymanot website" /></a>
+  <a href="https://github.com/DawitTemesgen1/Amdehaymanot-official-website"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_REPO-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View Amde Haymanot source code" /></a>
+</p>
 
 ---
 
@@ -113,7 +125,9 @@ Flutter mobile and full-stack development, offline synchronization, audio proces
 
 <code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>REST APIs</code> <code>Telegram Bot</code> <code>AI Integration</code> <code>FFmpeg</code> <code>Just Audio</code> <code>Audio Service</code> <code>Offline Sync</code>
 
-**[Google Play · 15K+ downloads](https://play.google.com/store/apps/details?id=com.orthodox.zimare)**
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.orthodox.zimare"><img src="https://img.shields.io/badge/GOOGLE_PLAY-15K%2B_DOWNLOADS-2EA043?style=for-the-badge&logo=googleplay&logoColor=white" alt="Amde Haymanot Zimare on Google Play" /></a>
+</p>
 
 ---
 
@@ -127,7 +141,9 @@ Flutter development and direct TDLib integration, including authentication, mess
 
 <code>Flutter</code> <code>Dart</code> <code>TDLib</code> <code>Dart Isolates</code> <code>Native Libraries</code> <code>Local Storage</code>
 
-**[Source Code](https://github.com/DawitTemesgen1/telegram-app-and-freezer-app)**
+<p>
+  <a href="https://github.com/DawitTemesgen1/telegram-app-and-freezer-app"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_REPO-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View TG Focus source code" /></a>
+</p>
 
 ---
 
