@@ -2,165 +2,150 @@
 
 <img src="https://raw.githubusercontent.com/DawitTemesgen1/DawitTemesgen1/main/profile-banner.png" alt="Dawit Temesgen banner" width="100%" />
 
-# Hi, I'm Dawit Temesgen 👋
+# Dawit Temesgen
 
-### Full-Stack & Mobile Developer • Computer Science Undergraduate
+### Full-Stack & Mobile Developer · Computer Science Undergraduate
 
-I build production-ready web and mobile products that solve real operational problems — from marketplaces and institutional systems to multilingual publishing, offline-first apps, AI-assisted workflows, and media platforms.
+I build production web and mobile products that solve real operational problems — from marketplaces and institutional systems to offline-first applications, multilingual publishing, media platforms, and AI-assisted workflows.
 
-<a href="mailto:dawityelidetaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/dawit-t"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/DawitTemesgen1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:dawityelidetaw@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/dawit-t">LinkedIn</a> ·
+<a href="https://github.com/DawitTemesgen1">GitHub</a>
 
 </div>
 
 ---
 
-## ⚡ What I Build
+## About
 
-- **Full-stack web platforms** — frontend, backend, databases, APIs, deployment, and production maintenance
-- **Flutter mobile applications** — offline-first systems, native integrations, media, notifications, and Play Store releases
-- **Real-world management systems** — role-based workflows, auditing, reporting, institutional operations, and secure access
-- **AI & automation workflows** — Telegram bots, multilingual publishing, content processing, and assisted data entry
-- **Ethiopian-focused products** — Ethiopian calendar, Bahre Hasab, multilingual interfaces, and locally relevant workflows
+I work across the full product lifecycle: **frontend, backend, mobile, databases, APIs, deployment, production releases, and ongoing maintenance**.
+
+A large part of my work focuses on building software around real organizations and local needs — including Ethiopian calendar workflows, Bahre Hasab, multilingual content, offline access, role-based administration, media processing, and AI-powered automation.
 
 ---
 
-## 🧰 Core Stack
+## Selected Work
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+### Yesra Sew
+**Ethiopian digital marketplace for homes, vehicles, jobs, and tenders**
+
+A production marketplace available on web and Android. It helps individuals, businesses, employers, property owners, and job seekers publish listings, discover opportunities, communicate, manage profiles, and receive notifications from one platform.
+
+**My contribution**  
+Full-stack web development, Flutter mobile development, backend/frontend deployment, production maintenance, and the complete Android release process from build and verification through Google Play publishing.
+
+**Stack**  
+React · TypeScript · Flutter · Fastify · Node.js · PostgreSQL · Redis · REST APIs · AI integrations · CI/CD
+
+[Live Website](https://www.yesrasewsolution.com/) · [Google Play — 1K+ downloads](https://play.google.com/store/apps/details?id=com.yesrasewsolution.app&pcampaignid=web_share)
 
 ---
 
-# 🚀 Featured Projects
+### Akilesiya — አቅሌስያ
+**Digital management platform for Ethiopian Orthodox Tewahedo Church Sunday Schools**
 
-## Yesra Sew
+Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**. Akilesiya connects students, families, teachers, departments, and leadership in one secure system.
 
-**Ethiopian digital marketplace for homes, vehicles, jobs, and tenders.**
+It supports modern attendance with late-arrival tracking, academic management, family access to student records, private student-development tracking, book assignments, departmental annual planning, multi-school administration, detailed audit history, reporting, and Ethiopian-calendar workflows.
 
-Yesra Sew helps individuals, businesses, employers, property owners, and job seekers connect through one platform. Users can create and manage listings, browse categories, communicate with interested users, manage profiles, receive notifications, and use the service through both web and mobile apps.
+**My contribution**  
+Full-stack and mobile development, backend and database implementation, role and permission architecture, offline synchronization, reporting, production deployment, and Android release for Google Play.
 
-**My role:** Full-stack web development, mobile app development, frontend/backend deployment, and building, verifying, and publishing the Android application on Google Play.
+**Stack**  
+Flutter · Dart · Node.js · Express.js · MySQL · REST APIs · JWT · Riverpod · Offline Sync · Cloudinary
 
-<p>
-  <a href="https://www.yesrasewsolution.com/"><img src="https://img.shields.io/badge/Live_Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Yesra Sew website"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.yesrasewsolution.app&pcampaignid=web_share"><img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Yesra Sew Google Play"></a>
-  <img src="https://img.shields.io/badge/Downloads-1K%2B-success?style=for-the-badge" alt="1K+ downloads">
-</p>
-
-**Tech:** React • Flutter • Fastify • Node.js • PostgreSQL • Redis • TypeScript • REST APIs • AI integrations • CI/CD
+[Google Play](https://play.google.com/store/apps/details?id=com.akilesiya.app) · [Source Code](https://github.com/DawitTemesgen1/akilesiya-)
 
 ---
 
-## Akilesiya — አቅሌስያ
+### አርያም
+**Offline Ethiopian Orthodox liturgical application**
 
-**A complete digital management system for Ethiopian Orthodox Tewahedo Church Sunday Schools.**
+Built in collaboration with the **Yaredawuyan Telegram channel**, አርያም brings together Mahlet, Misbak, Zimare, Militan, Gitsawe, and related New Testament readings.
 
-Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**, Akilesiya brings students, families, teachers, departments, and leadership into one secure platform. It supports smart attendance, academic management, private student-development tracking, family access, book assignments, departmental planning, detailed auditing, printing/reporting, and multi-school administration.
+The app uses **Bahre Hasab** calculations and liturgical rules to determine the appropriate content for a specific day without requiring an internet connection.
 
-**My role:** Full-stack and mobile app development, backend and database work, access-control architecture, offline synchronization, reporting, production deployment, and Android release for Google Play.
+**Status**  
+Currently under testing and final preparation for Google Play release.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.akilesiya.app"><img src="https://img.shields.io/badge/Google_Play-View_App-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Akilesiya Google Play"></a>
-  <a href="https://github.com/DawitTemesgen1/akilesiya-"><img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Akilesiya repository"></a>
-</p>
+**My contribution**  
+Flutter development, Bahre Hasab calculations, liturgical rule implementation, offline content organization, testing, and production preparation.
 
-**Tech:** Flutter • Dart • Node.js • Express.js • MySQL • REST APIs • JWT • Riverpod • Offline Sync • Cloudinary
+**Stack**  
+Flutter · Dart · Bahre Hasab · Rule-based logic · Offline data · GitHub Actions
 
----
-
-## አርያም
-
-**Offline Ethiopian Orthodox liturgical application for Mahlet, Misbak, Zimare, Militan, Gitsawe, and related New Testament readings.**
-
-Built in collaboration with the **Yaredawuyan Telegram channel**, አርያም uses **Bahre Hasab** calculations and liturgical rules to determine the appropriate content for a specific day without requiring internet access.
-
-The application is currently **under testing** and is planned for release on Google Play.
-
-**My role:** Flutter mobile development, Bahre Hasab calculations, liturgical rule implementation, offline content organization, testing, and production preparation.
-
-<p>
-  <a href="https://play.google.com/store/apps/developer?id=Philopater+Tech"><img src="https://img.shields.io/badge/Google_Play-Coming_Soon-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Philopater Tech Google Play"></a>
-</p>
-
-**Tech:** Flutter • Dart • Bahre Hasab • Rule-based logic • Offline data • GitHub Actions
+[Google Play Developer Page — Coming Soon](https://play.google.com/store/apps/developer?id=Philopater+Tech)
 
 ---
 
-## Amde Haymanot Official Website
+### Amde Haymanot Official Website
+**Multilingual digital platform for Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**
 
-**Official multilingual digital platform of Jimma Debre Efrata Cathedral Amde Haymanot Sunday School.**
+The platform provides educational content, events, announcements, galleries, media, and public information in **8 national and international languages**.
 
-The website gives members and visitors access to educational content, events, announcements, galleries, media, and Sunday School activities in **8 national and international languages**.
+Its AI-assisted publishing workflow detects posts published on the Sunday School's official Telegram channel, determines whether the content is news or an event, translates it into the website's eight supported languages, and publishes structured multilingual content to the website.
 
-Its AI-assisted publishing system detects new posts from the official Telegram channel, identifies whether the content is news or an event, translates it into the website's eight supported languages, and publishes structured multilingual content to the website.
+**My contribution**  
+Full-stack development across the frontend, backend, database, administration system, media-processing workflows, integrations, and deployment.
 
-**My role:** Full-stack web development across the frontend, backend, database, administration system, media-processing workflows, integrations, and deployment.
+**Stack**  
+React · Node.js · Express.js · MySQL · Gemini AI · Telegram integration · FFmpeg · Sharp · Remotion · GitHub Actions
 
-<p>
-  <a href="https://amdehaymanot.com/"><img src="https://img.shields.io/badge/Live_Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Amde Haymanot website"></a>
-  <a href="https://overview.amdehaymanot.com/"><img src="https://img.shields.io/badge/Updated_Version-Preview-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Amde Haymanot updated website preview"></a>
-  <a href="https://github.com/DawitTemesgen1/Amdehaymanot-official-website"><img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Amde Haymanot repository"></a>
-</p>
-
-**Tech:** React • Node.js • Express.js • MySQL • Gemini AI • Telegram integration • FFmpeg • Sharp • Remotion • GitHub Actions
+[Live Website](https://amdehaymanot.com/) · [Updated Version — Preview](https://overview.amdehaymanot.com/) · [Source Code](https://github.com/DawitTemesgen1/Amdehaymanot-official-website)
 
 ---
 
-## Amde Haymanot Zimare
+### Amde Haymanot Zimare
+**Digital Ethiopian Orthodox mezmur platform · 15K+ Google Play downloads**
 
-**Digital Ethiopian Orthodox mezmur platform for preserving and distributing mezmur lyrics (gitim) and audio online and offline.**
+Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**. The platform preserves and distributes mezmur lyrics (gitim) and audio for both online and offline use.
 
-Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**. Users can read lyrics (gitim), listen to mezmur, download audio for offline use, and choose between smaller data-friendly or higher-quality audio downloads.
+Users can synchronize new lyrics for offline access and choose between a smaller data-friendly audio download or a higher-quality version. An AI-assisted Telegram bot accepts mezmur lyrics and audio from contributors, submits them to an admin portal for review, and publishes approved content to the application database.
 
-An AI-assisted Telegram bot accepts mezmur lyrics (gitim) and audio from contributors, sends submissions to the admin portal for review, and publishes approved content to the app. New content can then be synchronized and stored for offline use.
+**My contribution**  
+Flutter mobile and full-stack development, offline synchronization, audio processing, downloads, administration tools, backend integration, and the AI-assisted Telegram contribution workflow.
 
-**My role:** Flutter mobile and full-stack development, offline synchronization, audio processing and downloads, administration tools, backend integration, and the AI-powered Telegram contribution workflow.
+**Stack**  
+Flutter · Dart · SQLite · REST APIs · Telegram Bot · AI integration · FFmpeg · Just Audio · Audio Service · Offline Sync
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.orthodox.zimare"><img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Amde Haymanot Zimare Google Play"></a>
-  <img src="https://img.shields.io/badge/Downloads-15K%2B-success?style=for-the-badge" alt="15K+ downloads">
-</p>
-
-**Tech:** Flutter • Dart • SQLite • REST APIs • Telegram Bot • AI integration • FFmpeg • Just Audio • Audio Service • Offline Sync
+[Google Play — 15K+ downloads](https://play.google.com/store/apps/details?id=com.orthodox.zimare)
 
 ---
 
-## TG Focus
+### TG Focus
+**Focused Telegram client built around intentional communication**
 
-**A distraction-reduced Telegram client that shows only the groups and channels a user intentionally selects.**
+A distraction-reduced Telegram client that lets users choose exactly which groups and channels they want to see. Users can authenticate with Telegram, read and reply to messages, receive notifications, and work with media without the noise of the full Telegram experience.
 
-Users can sign in with their Telegram account, read and reply to messages, receive notifications, and manage media without the noise of the full Telegram experience.
+**My contribution**  
+Flutter development and direct TDLib integration, including authentication, message handling, notifications, media downloads, persistent preferences, Dart isolates, and durable outgoing-message queues.
 
-**My role:** Flutter development and direct TDLib integration, including authentication, message handling, notifications, media downloads, persistent preferences, Dart isolates, and durable outgoing-message queues.
+**Stack**  
+Flutter · Dart · TDLib · Dart Isolates · Native Libraries · Local Storage
 
-<p>
-  <a href="https://github.com/DawitTemesgen1/telegram-app-and-freezer-app"><img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TG Focus repository"></a>
-</p>
-
-**Tech:** Flutter • Dart • TDLib • Dart Isolates • Native Libraries • Local Storage
+[Source Code](https://github.com/DawitTemesgen1/telegram-app-and-freezer-app)
 
 ---
 
-## 📊 GitHub Activity
+## Technical Focus
+
+| Area | Technologies & Experience |
+|---|---|
+| **Frontend** | React, TypeScript, JavaScript, Material UI |
+| **Mobile** | Flutter, Dart, Riverpod, offline-first architecture, native integrations |
+| **Backend** | Node.js, Fastify, Express.js, REST APIs, JWT |
+| **Data** | PostgreSQL, MySQL, SQLite, Redis, Supabase, Firebase |
+| **Engineering** | Git, GitHub Actions, CI/CD, testing, production deployment, Google Play releases |
+| **Integrations** | AI APIs, Telegram Bots, TDLib, FFmpeg, media processing, notifications |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DawitTemesgen1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Dawit's GitHub stats" height="155">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitTemesgen1&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Dawit's top languages" height="155">
+<img src="https://github-readme-stats.vercel.app/api?username=DawitTemesgen1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Dawit Temesgen GitHub statistics" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitTemesgen1&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Dawit Temesgen top languages" height="155" />
 
 </div>
 
@@ -168,11 +153,10 @@ Users can sign in with their Telegram account, read and reply to messages, recei
 
 <div align="center">
 
-### Let's connect
+### Contact
 
-I'm interested in building products where **software, real-world operations, local context, and thoughtful user experience** meet.
+I am interested in building products where **software, real-world operations, local context, and thoughtful user experience** come together.
 
-<a href="mailto:dawityelidetaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/dawit-t"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[Email](mailto:dawityelidetaw@gmail.com) · [LinkedIn](https://linkedin.com/in/dawit-t) · [GitHub](https://github.com/DawitTemesgen1)
 
 </div>
