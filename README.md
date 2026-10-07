@@ -1,85 +1,130 @@
-# <p align="center">Hi there, I'm Dawit! 👋</p>
+# <p align="center">Hi, I'm Dawit Temesgen 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DawitTemesgen1/DawitTemesgen1/main/profile-banner.png" alt="Dawit's Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DawitTemesgen1/DawitTemesgen1/main/profile-banner.png" alt="Dawit Temesgen profile banner" width="100%">
+</p>
+
+<p align="center">
+  <strong>Full-Stack & Mobile Developer | Computer Science Undergraduate</strong>
+</p>
+
+<p align="center">
+  I build production web and mobile products across marketplaces, institutional management, multilingual publishing, media platforms, and specialized utilities. I enjoy turning real operational problems into secure, usable digital systems.
+</p>
+
+<p align="center">
+  <a href="mailto:dawityelidetaw@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/dawit-t">LinkedIn</a> •
+  <a href="https://github.com/DawitTemesgen1">GitHub</a>
 </p>
 
 ---
 
-### <p align="center">🚀 Full-Stack Developer | Flutter Specialist | Web Enthusiast</p>
+## 🛠️ Tech Stack
+
+**Frontend & Mobile**  
+React • TypeScript • JavaScript • Flutter • Dart • Riverpod • Material UI
+
+**Backend & APIs**  
+Node.js • Fastify • Express.js • REST APIs • JWT • Redis
+
+**Data & Platforms**  
+PostgreSQL • MySQL • SQLite • Supabase • Firebase • Cloudinary
+
+**Engineering & Integrations**  
+GitHub Actions • CI/CD • Git • Google Play deployment • Offline Sync • AI integrations • Telegram Bots • FFmpeg
+
+---
+
+## 🚀 Featured Projects
+
+### Yesra Sew
+**Ethiopian digital marketplace for homes, vehicles, jobs, and tenders.**
+
+Users can create and manage listings, search and browse categories, communicate with interested users, manage profiles, receive notifications, and access the platform through web and mobile applications.
+
+**My role:** Full-stack web development, mobile app development, frontend/backend deployment, and building, verifying, and publishing the Android application on Google Play.
+
+**Tech:** React • Flutter • Fastify • Node.js • PostgreSQL • Redis • TypeScript • REST APIs • AI integrations • CI/CD
+
+🌐 [Visit Yesra Sew](https://www.yesrasewsolution.com)
+
+---
+
+### Akilesiya — አቅሌስያ
+**A complete digital management system for Ethiopian Orthodox Tewahedo Church Sunday Schools.**
+
+Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**, Akilesiya connects students, families, teachers, departments, and leadership in one secure platform. It supports multi-school administration, modern attendance tracking, academic management, family access, private student-development records, book assignments, annual departmental planning, detailed auditing, reporting, and Ethiopian-calendar workflows.
+
+**My role:** Full-stack and mobile app development, backend and database work, access-control architecture, offline synchronization, reporting, production deployment, and Android release for Google Play.
+
+**Tech:** Flutter • Dart • Node.js • Express.js • MySQL • REST APIs • JWT • Riverpod • Offline Sync • Cloudinary
+
+🔗 [View repository](https://github.com/DawitTemesgen1/akilesiya-)
+
+---
+
+### አርያም
+**An offline Ethiopian Orthodox liturgical application for Mahlet, Misbak, Zimare, Militan, Gitsawe, and related New Testament readings.**
+
+Built in collaboration with the **Yaredawuyan Telegram channel**, the app uses **Bahre Hasab** calculations and liturgical rules to determine the appropriate date-based content without requiring an internet connection.
+
+The application is currently under testing and final preparation for a planned Google Play release.
+
+**My role:** Flutter mobile development, Bahre Hasab calculations, liturgical rule implementation, offline content organization, testing, and production preparation.
+
+**Tech:** Flutter • Dart • Bahre Hasab • Rule-based logic • Offline data • GitHub Actions
+
+---
+
+### Amde Haymanot Official Website
+**The official multilingual digital platform of Jimma Debre Efrata Cathedral Amde Haymanot Sunday School.**
+
+The platform provides teaching, events, announcements, galleries, media, and public information in **eight national and international languages**. Its AI-assisted Telegram workflow detects posts from the official channel, identifies news or events, translates the content into the website's eight supported languages, and publishes structured multilingual content to the website.
+
+**My role:** Full-stack web development across the frontend, backend, database, administration system, media-processing workflows, integrations, and deployment.
+
+**Tech:** React • Node.js • Express.js • MySQL • Gemini AI • Telegram integration • FFmpeg • Sharp • Remotion • GitHub Actions
+
+🔗 [View repository](https://github.com/DawitTemesgen1/Amdehaymanot-official-website)
+
+---
+
+### Amde Haymanot Zimare
+**A digital Ethiopian Orthodox mezmur platform for preserving and distributing mezmur lyrics (gitim) and audio online and offline.**
+
+Developed in collaboration with **Jimma Debre Efrata Cathedral Amde Haymanot Sunday School**. The app supports continuously updated content, offline use, downloadable audio, and user-selectable light or high-quality audio versions. An AI-assisted Telegram bot accepts community mezmur submissions, sends them to an admin portal for review, and publishes approved content to the app database.
+
+**My role:** Flutter mobile and full-stack development, offline synchronization, audio processing and downloads, administration tools, backend integration, and the AI-powered Telegram contribution workflow.
+
+**Tech:** Flutter • Dart • SQLite • REST APIs • Telegram Bot • AI integration • FFmpeg • Just Audio • Audio Service • Offline Sync
+
+---
+
+### TG Focus
+**A distraction-reduced Telegram client that shows only the groups and channels a user intentionally selects.**
+
+Users can sign in with their Telegram account, read and reply to messages, receive notifications, and manage media without the noise of the full Telegram experience.
+
+**My role:** Flutter development and direct TDLib integration, including authentication, message handling, notifications, media downloads, persistent preferences, Dart-isolate handling, and durable outgoing-message queues.
+
+**Tech:** Flutter • Dart • TDLib • Dart Isolates • Native Libraries • Local Storage
+
+🔗 [View repository](https://github.com/DawitTemesgen1/telegram-app-and-freezer-app)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  I am a passionate software developer dedicated to building high-performance, visually stunning, and user-centric applications. With a strong foundation in both mobile and web technologies, I thrive on turning complex problems into elegant digital solutions.
+  <img src="https://github-readme-stats.vercel.app/api?username=DawitTemesgen1&show_icons=true&theme=transparent&hide_border=true" alt="Dawit's GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitTemesgen1&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Dawit's top languages" height="150">
 </p>
 
 ---
 
-### 🛡️ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DawitTemesgen1&theme=tokyonight" alt="GitHub Trophies" />
-</p>
+## 📫 Connect
 
----
-
-### 🛠️ My Tech Stack
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DawitTemesgen1/DawitTemesgen1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DawitTemesgen1&show_icons=true&theme=tokyonight&count_private=true" alt="Dawit's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitTemesgen1&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawitTemesgen1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### ⭐ Featured Projects
-
-- 📱🖥️ **[Yesra-Sew](https://github.com/DawitTemesgen1/yesra-sew)**: A multi-platform solution featuring a high-performance **Flutter mobile app** and a modern **React web application**.
-- 📱 **[Akilesiya](https://github.com/DawitTemesgen1/akilesiya-)**: A professional Flutter application showcasing community and event management.
-- ⚙️ **[Akilesiya-Backend](https://github.com/DawitTemesgen1/akilesiya-backend-)**: Robust Node.js backend for the Akilesiya ecosystem.
-- 🛠️ **[Philopater-Tech](https://github.com/DawitTemesgen1/Philopater-Tech-)**: Official company website showcasing innovative tech solutions.
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/dawit-t"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dawityelidetaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <i>"Code is poetry in motion."</i> 🚀
-</p>
+- **Email:** [dawityelidetaw@gmail.com](mailto:dawityelidetaw@gmail.com)
+- **LinkedIn:** [linkedin.com/in/dawit-t](https://linkedin.com/in/dawit-t)
+- **GitHub:** [github.com/DawitTemesgen1](https://github.com/DawitTemesgen1)
